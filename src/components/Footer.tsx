@@ -16,12 +16,12 @@ export function Footer() {
     },
     {
       icon: <Github className="h-4 w-4" />,
-      href: "https://github.com/sarah-chen-design",
+      href: "https://github.com/MuthuKumar71",
       label: "GitHub"
     },
     {
       icon: <Dribbble className="h-4 w-4" />,
-      href: "https://dribbble.com/sarah-chen-design",
+      href: "https://dribbble.com/muthumkumar01",
       label: "Dribbble"
     }
   ];
@@ -36,7 +36,7 @@ export function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="text-lg font-semibold">Sarah Chen</h3>
+            <h3 className="text-lg font-semibold">Muthu Kumar</h3>
             <p className="text-sm text-muted-foreground">
               UI/UX Designer passionate about creating meaningful digital experiences 
               that solve real-world problems.

@@ -60,12 +60,12 @@ export function Contact() {
     {
       icon: <Github className="h-5 w-5" />,
       label: "GitHub",
-      href: "https://github.com/sarah-chen-design"
+      href: "https://github.com/MuthuKumar71"
     },
     {
       icon: <Dribbble className="h-5 w-5" />,
       label: "Dribbble",
-      href: "https://dribbble.com/sarah-chen-design"
+      href: "https://dribbble.com/muthumkumar01"
     }
   ];
 
