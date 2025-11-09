@@ -59,6 +59,7 @@
             "build": "vite build",
             "test": "react-scripts test",
             "eject": "react-scripts eject",
+            "preview":"vite preview",
             "dev": "vite"
       }
 }
